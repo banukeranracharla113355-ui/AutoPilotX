@@ -1,4 +1,7 @@
-python-telegram-bo
-telethon
-qrcode[pil]
 aiohttp
+telegram
+io
+telethon
+qrcode
+requests
+python-telegram-bot
